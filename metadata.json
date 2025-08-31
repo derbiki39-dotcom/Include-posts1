@@ -1,0 +1,5 @@
+{
+  "name": "Blogger Embed Code Generator",
+  "description": "A tool to convert any website URL into a responsive or fixed-size embeddable HTML snippet, perfect for your Blogger posts. Simply enter a URL, customize the dimensions, and copy the code.",
+  "requestFramePermissions": []
+}
